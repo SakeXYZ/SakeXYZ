@@ -5,9 +5,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SakeXYZ)](https://git.io/streak-stats)
 
-markdown
-### 📈 GitHub Activity Graph:
-![Anurag's GitHub activity graph](https://activity-graph.herokuapp.com/graph?user
+![Anurag's GitHub activity graph](https://activity-graph.herokuapp.com/graph?user=SakeXYZ0)
 <!--
 **SakeXYZ/SakeXYZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
