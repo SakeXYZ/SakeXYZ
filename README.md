@@ -1,7 +1,6 @@
 ## Hi there 👋 It's SakeXYZ 🐼
 
-
-![Panda Logo]([https://your-image-url.com/big-image.jpg](https://fotoblik.ru/wp-content/uploads/2023/08/pikselnyi-peizazh-47.webp))
+![Uploading image.png…]()
 
 ## About Me
 
