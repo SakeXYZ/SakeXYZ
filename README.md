@@ -1,6 +1,6 @@
-## Hi there 👋 It's SakeXYZ 🐼
+![firewatch-4k-24](https://github.com/user-attachments/assets/822d4a0b-df1c-4f55-8a31-93e30e1e4dc2)
 
-![Uploading image.png…]()
+## Hi there 👋 It's SakeXYZ 🐼
 
 ## About Me
 
