@@ -2,9 +2,7 @@
 
 ## Hi there 👋 It's SakeXYZ 🐼
 
-## About Me
-
-I am a beginner programmer, learning programming and working on my first projects. I enjoy exploring code, learning new languages, and frameworks. Right now, I am working on small projects and trying to improve my skills to become a good developer.
+## I am a beginner programmer, learning programming and working on my first projects. I enjoy exploring code, learning new languages, and frameworks. Right now, I am working on small projects and trying to improve my skills to become a good developer.
 
 
 
