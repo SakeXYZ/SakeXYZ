@@ -7,5 +7,7 @@ I am a beginner programmer, learning programming and working on my first project
 
 ----------------------------------------------------------------
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SakeXYZ&layout=compact)
-![GitHub Commit Graph](https://github-readme-stats.vercel.app/api/commits/yearly?username=SakeXYZ&count_private=true)
+
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=your-github-SakeXYZ)
+
 ----------------------------------------------------------------
