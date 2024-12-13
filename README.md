@@ -8,6 +8,6 @@ I am a beginner programmer, learning programming and working on my first project
 ----------------------------------------------------------------
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SakeXYZ&layout=compact)
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=your-github-SakeXYZ)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SakeXYZ&show_icons=true)
 
 ----------------------------------------------------------------
