@@ -12,6 +12,7 @@ I enjoy exploring code, learning new languages, and frameworks. Right now, I am 
 ## Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SakeXYZ&show_icons=true)  
 
+<div align="left">
 ## About Me  
 
 😄 **Name**: Shamshiev Islambek  
