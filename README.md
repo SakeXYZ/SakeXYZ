@@ -20,7 +20,7 @@ I enjoy exploring code, learning new languages, and frameworks. Right now, I am 
 👯 **Education**: Osh State University (OSHSU) (2021–2023)  
 💼 **Work Experience**: LLC BioMir as System Administrator (2023–2024)  
 📫 **Main Language**: Python  
-💬 **Passion**: Software development and open-source contributions.  
+💬 **Passion**: Python Developer
 🌟 **Give me some stars!** ⭐  
 ⬆️ **Thank you for your support!**  
 
