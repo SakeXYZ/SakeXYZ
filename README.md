@@ -26,30 +26,8 @@ I am a beginner programmer, learning programming and working on my first project
 📫 **Main Language**: Python  
 💬 **Passion**: Software development and open-source contributions.  
 
-🔗 **GitHub**: [Visit my repositories](https://github.com/)  
 
 🌟 **Give me some stars!** ⭐  
 ⬆️ **Thank you for your support!**  
 
----
 
-## 🌍 Language Switcher  
-
-**Languages**:  
-English | 简体中文 | 繁體中文 | 日本語 | Русский | Deutsch | Français | Español | Português | Tiếng Việt | ...  
-
-> Select a language and view this `README.md` in your preferred language!  
-```html
-<div style="text-align: center;">
-  <a href="#en">English</a> |
-  <a href="#zh-cn">简体中文</a> |
-  <a href="#zh-tw">繁體中文</a> |
-  <a href="#ja">日本語</a> |
-  <a href="#ru">Русский</a> |
-  <a href="#de">Deutsch</a> |
-  <a href="#fr">Français</a> |
-  <a href="#es">Español</a> |
-  <a href="#pt">Português</a> |
-  <a href="#vi">Tiếng Việt</a> |
-  ...
-</div>
