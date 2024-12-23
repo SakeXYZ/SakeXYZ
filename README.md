@@ -24,9 +24,10 @@ I enjoy exploring code, learning new languages, and frameworks. Right now, I am 
 🌟 **Give me some stars!** ⭐  
 ⬆️ **Thank you for your support!**  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islambek-shamshiev-747659288/)  
-[![Hexlet](https://img.shields.io/badge/-Hexlet-orange?style=flat-square&logo=hexlet&logoColor=white)](https://ru.hexlet.io/u/sakexyz)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/sake.lite)  
+## My links
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islambek-shamshiev-747659288/)  [![Hexlet](https://img.shields.io/badge/-Hexlet-orange?style=flat-square&logo=hexlet&logoColor=white)](https://ru.hexlet.io/u/sakexyz)  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/sake.lite)  
+
+
 
 
 </div>
