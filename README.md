@@ -8,9 +8,12 @@
 
 I am a beginner programmer, learning programming and working on my first projects. I enjoy exploring code, learning new languages, and frameworks. Right now, I am working on small projects and trying to improve my skills to become a good developer.
 
-----------------------------------------------------------------
+
+
+## Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SakeXYZ&layout=compact)
 
+## Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SakeXYZ&show_icons=true)
 
-----------------------------------------------------------------
+
