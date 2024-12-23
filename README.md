@@ -17,7 +17,8 @@ I am a beginner programmer, learning programming and working on my first project
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SakeXYZ&show_icons=true)
 
 
-##About Me
+## About Me
+
 😄 Name: Shamshiev Islambek
 🔭 Born in: 2004
 🌱 Gender: Male
