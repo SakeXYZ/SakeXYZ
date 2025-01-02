@@ -6,12 +6,6 @@
 I am a beginner programmer, learning programming and working on my first projects.  
 I enjoy exploring code, learning new languages, and frameworks. Right now, I am working on small projects and trying to improve my skills to become a good developer.  
 
-## Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SakeXYZ&layout=compact)  
-
-## Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SakeXYZ&show_icons=true)  
-
 ## About Me  
 
 😄 **Name**: Shamshiev Islambek  
@@ -23,6 +17,11 @@ I enjoy exploring code, learning new languages, and frameworks. Right now, I am 
 💬 **Passion**: Python Developer
 🌟 **Give me some stars!** ⭐  
 ⬆️ **Thank you for your support!**  
+
+
+## Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SakeXYZ&show_icons=true)  
+
 
 ## Social Media
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islambek-shamshiev-747659288/)  [![Hexlet](https://img.shields.io/badge/-Hexlet-orange?style=for-the-badge&logo=hexlet&logoColor=white)](https://ru.hexlet.io/u/sakexyz)  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sake.lite)  
